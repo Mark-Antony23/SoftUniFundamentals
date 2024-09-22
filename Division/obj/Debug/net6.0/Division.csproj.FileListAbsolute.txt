@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\bin\Debug\net6.0\Division.exe
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\bin\Debug\net6.0\Division.deps.json
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\bin\Debug\net6.0\Division.runtimeconfig.json
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\bin\Debug\net6.0\Division.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\bin\Debug\net6.0\Division.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\refint\Division.dll
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.pdb
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\Division.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\BasicSyntaxExcercuse\Division\obj\Debug\net6.0\ref\Division.dll
