@@ -1,0 +1,14 @@
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.exe
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.deps.json
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.runtimeconfig.json
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.dll
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\bin\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfoInputs.cache
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.AssemblyInfo.cs
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.dll
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\refint\03.RoundingNumbers.dll
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.pdb
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\03.RoundingNumbers.genruntimeconfig.cache
+C:\Users\GRIGS\source\repos\Arrays\03.RoundingNumbers\obj\Debug\net6.0\ref\03.RoundingNumbers.dll
